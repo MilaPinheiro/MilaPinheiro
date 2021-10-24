@@ -4,7 +4,7 @@
 - 💻 Desenvolvedora de front-end
 - 🌱 Estudante de HTML/CSS/JavaScript
 - 👯 Pronouns: ela/dela
-<div>
+<div style="display: inline-block">
 <div align="center">
   <a href="https://github.com/MilaPinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilaPinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
