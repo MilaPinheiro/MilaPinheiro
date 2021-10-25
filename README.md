@@ -1,4 +1,4 @@
-## Olá! Eu sou a Camila Pinheiro
+## Hi There, I'm Camila Pinheiro
 
 
 - 💻 Desenvolvedora de front-end
