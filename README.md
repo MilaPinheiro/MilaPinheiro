@@ -2,7 +2,7 @@
 
 
 - 💻 Desenvolvedora Front-end
-- 🌱 Estudante de HTML/CSS/JavaScript
+- 🌱 Estudante de JavaScript/React/ Node
 - 👯 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/MilaPinheiro">
