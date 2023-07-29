@@ -1,7 +1,7 @@
 ## Hi There, I'm Camila Pinheiro
 
 
-- 💻 Desenvolvedora de front-end
+- 💻 Desenvolvedora Front-end
 - 🌱 Estudante de HTML/CSS/JavaScript
 - 👯 Pronouns: ela/dela
 <div align="center">
